@@ -1,6 +1,6 @@
 {
     "name": "com.chartboost.mediation.unity.adapter.mintegral",
-    "version": "5.0.1",
+    "version": "5.0.2",
     "displayName": "Chartboost Mediation Adapter - Mintegral",
     "description": "The Chartboost Mediation Unity SDK Adapter for Mintegral.",
     "unity": "2022.3",
