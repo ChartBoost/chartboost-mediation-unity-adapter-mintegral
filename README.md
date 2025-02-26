@@ -12,7 +12,7 @@ In order to add the Chartboost Mediation Unity SDK - Mintegral Adapter to your p
 
 ```json
 "dependencies": {
-    "com.chartboost.mediation.unity.adapter.mintegral": "5.0.0",
+    "com.chartboost.mediation.unity.adapter.mintegral": "5.0.3",
     ...
 },
 "scopedRegistries": [

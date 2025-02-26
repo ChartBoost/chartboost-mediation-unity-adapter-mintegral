@@ -2,7 +2,7 @@
 <dependencies>
     <androidPackages>
         <!-- Android Adapter -->
-        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-mintegral:5.16.7.+"/>
+        <androidPackage spec="com.chartboost:chartboost-mediation-adapter-mintegral:5.16.8.+"/>
 
         <!-- Mintegral Android Repositories -->
         <repositories>
