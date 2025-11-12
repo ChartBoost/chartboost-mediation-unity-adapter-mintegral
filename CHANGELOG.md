@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file using the standards as defined at [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0).
 
+### Version 5.1.0 *(2025-11-10)*
+This version of the Mintegral Adapter supports the following native SDK dependencies:
+  * Android: `com.chartboost:chartboost-mediation-adapter-mintegral:5.16.8.+`
+  * iOS: `ChartboostMediationAdapterMintegral: ~> 5.8.0.0`
+
 ### Version 5.0.3 *(2025-02-19)*
 This version of the Mintegral Adapter supports the following native SDK dependencies:
   * Android: `com.chartboost:chartboost-mediation-adapter-mintegral:5.16.8.+`
